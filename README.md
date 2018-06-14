@@ -5,7 +5,7 @@ For which we need to have phishing pages to upload then in hosting sites.
 Here i will show you an example of creating Phishing page (fake loGin page) of Facebook.The method is same for any other website
 What we are going to do now.Normally in phishing we will just create a login page which looks same like the real website. For this we need not to code the whole script of the desired website. 
 
-StepS to Reproduced:
+StepS to Reproduce:
 
 1. First go to the desired website Login page for which you want to create Phishing page
 lets take www.facebook.com
