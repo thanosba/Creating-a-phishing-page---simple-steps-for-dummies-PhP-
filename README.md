@@ -1,6 +1,6 @@
 # Creating-a-phishing-page---very simple-steps-for-dummies-PhP-
 
-Phishing is the most common acttack which is used to hack any login details.
+Phishing is the most common attack which is used to hack any login details.
 For which we need to have phishing pages to upload then in hosting sites.
 Here i will show you an example of creating Phishing page (fake loGin page) of Facebook.The method is same for any other website
 What we are going to do now.Normally in phishing we will just create a login page which looks same like the real website. For this we need not to code the whole script of the desired website. 
