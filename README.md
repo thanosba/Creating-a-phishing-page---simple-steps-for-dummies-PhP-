@@ -14,7 +14,8 @@ lets take www.facebook.com
 
 3. Copy the whole script and paste it into a text file. Press Control+F and type ” action “.
 Here in the case of “www.facebook.com “. The script line that has “action” looks something like this.
-action=”https://www.facebook.com/login.php?login_attempt=1“. Now replace everything inside the quotes with ” login.php”. 
+action=”https://www.facebook.com/login.php?login_attempt=1“. Now replace everything inside the quotes with 
+” login.php”. 
 
 So it will look like action=”login.php“ 
 
