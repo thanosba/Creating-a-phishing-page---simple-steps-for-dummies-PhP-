@@ -12,9 +12,9 @@ lets take www.facebook.com
 
 2. Right click on the website and choose “page source” . Now you can see the whole script of the website.
 
-3. Copy the whole script and paste it into a text file. Press Cntrol+F and type ” action “.
-Here in the case of “www.facebook.com “. the script line that has “action” looks something like this.
-action=”https://www.facebook.com/login.php?login_attempt=1“ Now replace everything inside the quotes with ” login.php”. so it will look like action=”login.php“ 
+3. Copy the whole script and paste it into a text file. Press Control+F and type ” action “.
+Here in the case of “www.facebook.com “. The script line that has “action” looks something like this.
+action=”https://www.facebook.com/login.php?login_attempt=1“. Now replace everything inside the quotes with ” login.php”. So it will look like action=”login.php“ 
 
 4. Save the file as index.html.
 
